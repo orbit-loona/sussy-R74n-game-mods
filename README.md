@@ -29,9 +29,9 @@ The shit mod, which adds shit and diarrhea.
 
 I'm not putting these on my GitHub page lmao. You can't link to the /raw/ file URLs because they're not served as JS, so instead you need to use [JSDelivr](https://www.jsdelivr.com/github) to get JS links that Sandboxels can ingest ( ͡° ͜ʖ ͡°).
 
-*Cum mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_liquid.js
-*Piss mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_liquid_2.js
-*Puke mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_liquid_3.js
-*Shit mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_solid.js
+*Cum mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_liquid.js   
+*Piss mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_liquid_2.js   
+*Puke mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_liquid_3.js   
+*Shit mod:* https://cdn.jsdelivr.net/gh/orbit-loona/sussy-sandboxels-mods@main/funny_solid.js   
 
 Put whichever of these URLs you want into the Sandboxels mod menu like you would with any mod name ending in ".js".
